@@ -1,0 +1,289 @@
+
+[
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpyj9gpZi95RYf3A7O_p4YHD1wZjd8WMGWVE_4-FdV6yeJP6mcH0",
+    "adresse": "123 Rue de l'Immobilier",
+    "contact": {
+      "tel": "0123456789",
+      "email": "contact@appartement1.com"
+    },
+    "description": "Bel appartement spacieux avec vue sur la ville.",
+    "latitude": 48.858844,
+    "longitude": 2.294351
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtklGEIA1W_erEYDf23KX8drDyZFB1URDBQw&usqp=CAU",
+    "adresse": "456 Avenue de l'Habitat",
+    "contact": {
+      "tel": "9876543210",
+      "email": "contact@appartement2.com"
+    },
+    "description": "Appartement moderne avec balcon et piscine communautaire.",
+    "latitude": 48.860319,
+    "longitude": 2.295168
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwSBI5gN_3aucmccvlSjmVpqP5PU0I9OFviQ&usqp=CAU",
+    "adresse": "789 Boulevard de la Résidence",
+    "contact": {
+      "tel": "4567890123",
+      "email": "contact@appartement3.com"
+    },
+    "description": "Appartement récemment rénové avec jardin privé.",
+    "latitude": 48.861127,
+    "longitude": 2.294508
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkqlqWqXYjH8RyPurnvtP0XnuW5p4bcMECg&usqp=CAU",
+    "adresse": "10 Rue du Logement",
+    "contact": {
+      "tel": "1111111111",
+      "email": "contact@appartement4.com"
+    },
+    "description": "Appartement lumineux avec terrasse donnant sur le parc.",
+    "latitude": 48.860104,
+    "longitude": 2.293735
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0F95u7we7quPfiDRsj_fUQpYX3k9NTyuug&usqp=CAU",
+    "adresse": "25 Avenue de la Résidence",
+    "contact": {
+      "tel": "2222222222",
+      "email": "contact@appartement5.com"
+    },
+    "description": "Spacieux appartement meublé avec vue sur la mer.",
+    "latitude": 48.860218,
+    "longitude": 2.295833
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzkCKmxlsxMedr_cjyzFYGzBAfU7nR45kO6w&usqp=CAU",
+    "adresse": "78 Boulevard des Habitants",
+    "contact": {
+      "tel": "3333333333",
+      "email": "contact@appartement6.com"
+    },
+    "description": "Appartement moderne en plein centre-ville.",
+    "latitude": 48.860222,
+    "longitude": 2.295365
+  },
+  {
+    "image": "https://www.parismatch.com/lmnr/r/375,250,FFFFFF,forcex,center-middle/img/var/pm/public/media/image/2023/06/28/09/2023-06-27t225711z_1263823077_rc2xr1atmyr9_rtrmadp_3_film-barbie-dreamhouse.jpg?VersionId=TInKb3kRyiTa0lu0iC..SefE3RClSSUp",
+    "adresse": "14 Rue des Propriétaires",
+    "contact": {
+      "tel": "4444444444",
+      "email": "contact@appartement7.com"
+    },
+    "description": "Appartement confortable avec parking privé.",
+    "latitude": 48.860488,
+    "longitude": 2.294178
+  },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpyj9gpZi95RYf3A7O_p4YHD1wZjd8WMGWVE_4-FdV6yeJP6mcH0TAms10niBtwtH8vi8&usqp=CAU",
+      "adresse": "39 Avenue des Locataires",
+      "contact": {
+        "tel": "5555555555",
+        "email": "contact@appartement8.com"
+      },
+      "description": "Appartement avec piscine intérieure et salle de sport.",
+      "latitude": 48.860483,
+      "longitude": 2.293269
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2A4DN4c0CeZx0qOvEZXxXLPWm3Fplpfp5Tg&usqp=CAU",
+      "adresse": "17 Boulevard du Propriétaire",
+      "contact": {
+        "tel": "6666666666",
+        "email": "contact@appartement9.com"
+      },
+      "description": "Appartement rénové avec vue panoramique sur la ville.",
+      "latitude": 48.859662,
+      "longitude": 2.295162
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs81skt-r3tNZwt-TMPBLAlSO7JaxPIj1F6w&usqp=CAU",
+      "adresse": "5 Rue des Résidents",
+      "contact": {
+        "tel": "7777777777",
+        "email": "contact@appartement10.com"
+      },
+      "description": "Appartement spacieux avec grand jardin privé.",
+      "latitude": 48.858757,
+      "longitude": 2.296735
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrASREAFCWPBlQujEJVBLe77hVIA5evqq0yg&usqp=CAU",
+      "adresse": "22 Avenue des Occupants",
+      "contact": {
+        "tel": "8888888888",
+        "email": "contact@appartement11.com"
+      },
+      "description": "Appartement de luxe avec vue sur la rivière.",
+      "latitude": 48.859802,
+      "longitude": 2.297322
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA77kyr-WYiMDb4XnHnGfnlnOetbbVi6JAhw&usqp=CAU",
+      "adresse": "13 Rue du Bien-Être",
+      "contact": {
+        "tel": "9999999999",
+        "email": "contact@appartement12.com"
+      },
+      "description": "Appartement proche des commodités et des transports en commun.",
+      "latitude": 48.861080,
+      "longitude": 2.294329
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRw3hubL15eSGk5sXmDfwd7ERQzCVFbpD_MA&usqp=CAU",
+      "adresse": "45 Boulevard de la Quiétude",
+      "contact": {
+        "tel": "1010101010",
+        "email": "contact@appartement13.com"
+      },
+      "description": "Appartement calme et bien éclairé avec balcon.",
+      "latitude": 48.861050,
+      "longitude": 2.295243
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_871Eb_r_vCvOVLRu1UDzova1RBw09EMxw&usqp=CAU",
+      "adresse": "7 Rue de la Tranquillité",
+      "contact": {
+        "tel": "1212121212",
+        "email": "contact@appartement14.com"
+      },
+      "description": "Appartement moderne avec vue sur la montagne.",
+      "latitude": 48.860246,
+      "longitude": 2.297568
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP5ma25osQbN38Fg6tkaY1sRJdgW5lmPT3XQ&usqp=CAU",
+      "adresse": "32 Avenue des Locataires",
+      "contact": {
+        "tel": "1313131313",
+        "email": "contact@appartement15.com"
+      },
+      "description": "Appartement rénové avec cuisine équipée.",
+      "latitude": 48.859858,
+      "longitude": 2.298051
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG17k7ssnEXy3KN6H0KpfIGNktyi4xnptgKQ&usqp=CAU",
+      "adresse": "15 Boulevard des Propriétaires",
+      "contact": {
+        "tel": "1414141414",
+        "email": "contact@appartement16.com"
+      },
+      "description": "Appartement lumineux avec grandes fenêtres.",
+      "latitude": 48.860686,
+      "longitude": 2.296280
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNo9kBLNaLZ-19y2tORN_ViNV_Gcy9PyTO4g&usqp=CAU",
+      "adresse": "21 Rue du Confort",
+      "contact": {
+        "tel": "1515151515",
+        "email": "contact@appartement17.com"
+      },
+      "description": "Appartement bien situé près des commerces.",
+      "latitude": 48.860358,
+      "longitude": 2.294797
+    },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpyj9gpZi95RYf3A7O_p4YHD1wZjd8WMGWVE_4-FdV6yeJP6mcH0TAms10niBtwtH8vi8&usqp=CAU",
+        "adresse": "39 Avenue des Locataires",
+        "contact": {
+          "tel": "5555555555",
+          "email": "contact@appartement8.com"
+        },
+        "description": "Appartement avec piscine intérieure et salle de sport.",
+        "latitude": 48.860483,
+        "longitude": 2.293269
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2A4DN4c0CeZx0qOvEZXxXLPWm3Fplpfp5Tg&usqp=CAU",
+        "adresse": "17 Boulevard du Propriétaire",
+        "contact": {
+          "tel": "6666666666",
+          "email": "contact@appartement9.com"
+        },
+        "description": "Appartement rénové avec vue panoramique sur la ville.",
+        "latitude": 48.859662,
+        "longitude": 2.295162
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs81skt-r3tNZwt-TMPBLAlSO7JaxPIj1F6w&usqp=CAU",
+        "adresse": "5 Rue des Résidents",
+        "contact": {
+          "tel": "7777777777",
+          "email": "contact@appartement10.com"
+        },
+        "description": "Appartement spacieux avec grand jardin privé.",
+        "latitude": 48.858757,
+        "longitude": 2.296735
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrASREAFCWPBlQujEJVBLe77hVIA5evqq0yg&usqp=CAU",
+        "adresse": "22 Avenue des Occupants",
+        "contact": {
+          "tel": "8888888888",
+          "email": "contact@appartement11.com"
+        },
+        "description": "Appartement de luxe avec vue sur la rivière.",
+        "latitude": 48.859802,
+        "longitude": 2.297322
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA77kyr-WYiMDb4XnHnGfnlnOetbbVi6JAhw&usqp=CAU",
+        "adresse": "13 Rue du Bien-Être",
+        "contact": {
+          "tel": "9999999999",
+          "email": "contact@appartement12.com"
+        },
+        "description": "Appartement proche des commodités et des transports en commun.",
+        "latitude": 48.861080,
+        "longitude": 2.294329
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRw3hubL15eSGk5sXmDfwd7ERQzCVFbpD_MA&usqp=CAU",
+        "adresse": "45 Boulevard de la Quiétude",
+        "contact": {
+          "tel": "1010101010",
+          "email": "contact@appartement13.com"
+        },
+        "description": "Appartement calme et bien éclairé avec balcon.",
+        "latitude": 48.861050,
+        "longitude": 2.295243
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_871Eb_r_vCvOVLRu1UDzova1RBw09EMxw&usqp=CAU",
+        "adresse": "7 Rue de la Tranquillité",
+        "contact": {
+          "tel": "1212121212",
+          "email": "contact@appartement14.com"
+        },
+        "description": "Appartement moderne avec vue sur la montagne.",
+        "latitude": 48.860246,
+        "longitude": 2.297568
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP5ma25osQbN38Fg6tkaY1sRJdgW5lmPT3XQ&usqp=CAU",
+        "adresse": "32 Avenue des Locataires",
+        "contact": {
+          "tel": "1313131313",
+          "email": "contact@appartement15.com"
+        },
+        "description": "Appartement rénové avec cuisine équipée.",
+        "latitude": 48.859858,
+        "longitude": 2.298051
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG17k7ssnEXy3KN6H0KpfIGNktyi4xnptgKQ&usqp=CAU",
+        "adresse": "15 Boulevard des Propriétaires",
+        "contact": {
+          "tel": "1414141414",
+          "email": "contact@appartement16.com"
+        },
+        "description": "Appartement lumineux avec grandes fenêtres.",
+        "latitude": 48.860686,
+        "longitude": 2.296280
+      }
+    ]
