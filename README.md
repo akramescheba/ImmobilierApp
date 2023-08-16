@@ -1,6 +1,6 @@
 # Application Immobilière
 
-![Logo de l'Application]([lien_vers_le_logo](https://github.com/akramescheba/ImmobilierApp/tree/master/assets/immeuble.png)
+([Logo de l'Application](https://github.com/akramescheba/ImmobilierApp/blob/master/assets/icon.png)
 
 Cette application immobilière a été développée en utilisant JavaScript et React Native. Elle a pour but de présenter une liste complète d'annonces immobilières, affichant des informations essentielles telles que l'adresse, le numéro de l'agence, l'adresse e-mail de contact et une description détaillée pour chaque bien immobilier.
 
