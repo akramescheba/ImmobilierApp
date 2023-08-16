@@ -10,18 +10,13 @@ Ce projet a été initialement entrepris en réponse à une opportunité d'entre
 
 ## Fonctionnalités
 
-L'application mobile offre plusieurs fonctionnalités clés grâce à son interaction avec une API dédiée :
+L'application mobile offre plusieurs fonctionnalités clés grâce à son interaction avec une liste fictive que j'ai créée dans un fichier JSON :
 
 - Affichage exhaustif de la liste des biens immobiliers disponibles.
 - Consultation en détail des informations et descriptions de chaque propriété.
 - Possibilité d'effectuer des recherches ciblées en se basant sur l'adresse et le numéro de chaque immeuble.
 - Fonctionnalité de mise en favori pour les biens préférés.
 - Processus de réservation simple et intuitif pour les biens sélectionnés.
-
-
-
-N'hésitez pas à contribuer en ouvrant des problèmes ou en soumettant des demandes d'extraction pour des améliorations ou des corrections de bugs.
-
 
 
 ## Installations
@@ -58,7 +53,7 @@ npm i @react-navigation/native-stack
 Pour tout autres dépendences, veillez ouvrir le fichier `pakages.json` et veillez à installer toutes les dependances nécéssaires pour ce projet avec npm
 
 
-##  Deployment
+##  Déploiment
 
 1. Veillez telecharger l'application`expo` sur votre téléphone et créer un compte ` 
 
